@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Momentum: Habit Builder App Privacy Policy
+## Momentum: builds a better tomorrow
 
 Effective Date: 13/09/2024
 
