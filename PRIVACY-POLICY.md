@@ -18,13 +18,16 @@ Since we do not collect any information, we do not share any data with third par
 ### 4. Notifications
 Momentum uses local notifications to remind you of your goals. These reminders are generated and managed entirely on your device.
 
-### 5. Security of Your Data
+### 5. Unrestricted Battery Access
+Momentum requires unrestricted battery access to provide reliable reminder notifications. This permission ensures that the app can send reminders on time, even when your phone is in low-power mode or the app is running in the background.
+
+### 6. Security of Your Data
 The security of your data is based on the measures you take to protect your device. We do not control access to your phone or its contents.
 
-### 6. Changes to the Privacy Policy
+### 7. Changes to the Privacy Policy
 This policy may be updated in the future, but any changes will reflect our commitment to privacy. Updates will be communicated through the app.
 
-### 7. Contact Us
+### 8. Contact Us
 If you have any questions, feel free to contact us at mednassim.fellah@gmail.com.
 
 By using Momentum, you agree to this privacy policy.
