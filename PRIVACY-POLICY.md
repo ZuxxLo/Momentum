@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Momentum: builds a better tomorrow
+## Momentum: Build Better Habits
 
 Effective Date: 13/09/2024
 
